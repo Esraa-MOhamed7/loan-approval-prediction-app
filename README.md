@@ -41,5 +41,6 @@ This project uses the **Loan-Approval-Prediction-Dataset** to build and evaluate
 
 ---
 
-## Author
-Esraa — Passionate about data science, AI, and sharing knowledge through clear, accessible projects.
+## Charts
+Below are examples of visualizations used in the project:
+
