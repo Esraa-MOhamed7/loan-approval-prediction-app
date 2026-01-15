@@ -40,4 +40,5 @@ This project uses the **Loan-Approval-Prediction-Dataset** to build and evaluate
 | Gradient Boosting      | 0.98     | 0.98               | 0.99               |
 
 ---
-
+## Live Demo  
+You can interact with the model here: [Alzheimer’s Prediction App](https://alzheimer-disease-prediction-ys8fdsa6d3djfmfhmhcqsy.streamlit.app/)
