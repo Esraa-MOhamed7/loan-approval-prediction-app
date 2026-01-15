@@ -41,4 +41,4 @@ This project uses the **Loan-Approval-Prediction-Dataset** to build and evaluate
 
 ---
 ## Live Demo  
-You can interact with the model here: [Alzheimer’s Prediction App](https://alzheimer-disease-prediction-ys8fdsa6d3djfmfhmhcqsy.streamlit.app/)
+You can interact with the model here: [Loan Approval Prediction App](https://alzheimer-disease-prediction-ys8fdsa6d3djfmfhmhcqsy.streamlit.app/)
