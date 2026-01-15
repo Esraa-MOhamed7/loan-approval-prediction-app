@@ -41,6 +41,3 @@ This project uses the **Loan-Approval-Prediction-Dataset** to build and evaluate
 
 ---
 
-## Charts
-Below are examples of visualizations used in the project:
-
